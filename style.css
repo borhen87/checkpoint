@@ -1,0 +1,64 @@
+h1 {
+    color: blue;
+}
+
+a:link {
+    color: tomato;
+}
+
+
+
+      /* visited link */
+      a:visited {
+        color: tomato;
+    }
+
+    /* mouse over element */
+    div:hover {
+        color: tomato;
+    } 
+
+    /* selected link */
+    a:active{
+        color: #0000FF
+    }
+
+
+box {
+    padding: <padding-top> || <padding-right> || <padding-bottom> || <padding-left>
+  }
+
+  
+div{
+    height: 150px;
+    width: 90%;
+}
+
+.box-5 {
+    border: 5px dotted orange;
+  }
+
+  p {
+    display: inline;
+  }
+
+  div{
+    display: block;
+    }
+         p {
+      height: 100px;
+      width: 100px;
+      background: red;
+      color: white;
+    }
+
+    .test {
+        width: 50px;
+        height: 50px;
+        border: 1px solid red;
+        display: inline-block;
+      }
+
+      body {
+          background-color: chartreuse;
+      }
